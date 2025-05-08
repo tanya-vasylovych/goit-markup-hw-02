@@ -1,0 +1,30 @@
+body {font-family: 'Roboto','Helvetica Neue', 'Verdana', sans-serif;
+      color: #434455;
+      background-color: #FCFCFC;
+      font-size: 16px;
+      line-height: 24px;
+      letter-spacing: 2%;}
+.page-nav .link:hover, .page-nav .link:focus {color: #4D5AE5;} 
+.nav-studio .link:active {text-decoration: underline;}  
+.links  {font-size: 12px;
+       line-height: 16px;
+       letter-spacing: 4%;}
+.links .link:hover, .links .link:focus {color: #4D5AE5;}       
+button {color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 4%;} 
+button .link:hover {background-color: #404BBF;}
+.page-title {font-size: 56px;
+             font-weight: 700; 
+             line-height: 60px; 
+             letter-spacing: 2%;}
+.section-title {font-size: 36px;
+                font-weight: 700;
+                letter-spacing: 2%;}
+
+.card-title {font-size: 20px;
+             font-weight: 400;
+             letter-spacing: 2%;}
