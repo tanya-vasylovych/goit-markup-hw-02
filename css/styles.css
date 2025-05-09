@@ -23,13 +23,14 @@ font-size: 16px;
 color: #2e2f42;}        
 .page-nav .link:hover {color: #404BBF;}
 .page-nav .link:focus {color:#404BBF;} 
-.links  {font-style: normal;
+.address-lin {font-style: normal;
        font-size: 16px;
        line-height: 1.2px;
        letter-spacing: 0.02em;}
-.link-address .link:hover {color: #404BBF;} 
-.link-address .link:focus {color:#404BBF;}  
-.section-1 {background-color:#2e2f42;}     
+.address .link:hover {color: #404BBF;} 
+.address .link:focus {color:#404BBF;} 
+.address {line-height: 1.5;} 
+.solutions {background-color:#2e2f42;}     
 .button {color:#FFFFFF;
         background-color: #4D5AE5;
         cursor: pointer;
@@ -56,8 +57,8 @@ color: #2e2f42;}
              color: #2e2f42;
              background-color: #FFFFFF;
             line-height: 1.2;}
-.section-3 {background-color:#F4F4FD}           
-.section-title-2 {font-size: 36px;
+.team {background-color:#F4F4FD}           
+.team-title {font-size: 36px;
    font-weight: 500;
    letter-spacing: 0.02em;
    line-height: 1.11;
