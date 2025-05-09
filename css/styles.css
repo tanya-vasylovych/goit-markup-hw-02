@@ -7,35 +7,35 @@ ul, ol {list-style: none;}
 .descr {font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   color: #434455;} 
-.logo {font-weight: 700;
+   color:#434455;} 
+.logo {font-family: 'Raleway', sans-serif; font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5}
-.logo-studio {color: #2e2f42;}
-.page-nav {color: #434455;
+.logo-studio {color:#2e2f42;}
+.page-nav {color:#434455;
 font-size: 16px;
    font-weight: 500;
    line-height: 1.5;
    letter-spacing: 0.02em;
 color: #2e2f42;}        
-.page-nav .link:hover, .page-nav .link:focus {color: #404BBF;} 
+.page-nav .link:hover, .page-nav .link:focus {color:#404BBF;} 
 .links  {font-style: normal;
        font-size: 16px;
        line-height: 1.2px;
        letter-spacing: 0.02em;}
-.links .link:hover, .links .link:focus {color: #404BBF;}  
-.sectionn-1 {background-color: #2e2f42;}     
-.button {color: #FFFFFF;
+.links .link:hover, .links .link:focus {color:#404BBF;}  
+.section-1 {background-color:#2e2f42;}     
+.button {color:#FFFFFF;
         background-color: #4D5AE5;
         cursor: pointer;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;} 
-.button .link:hover {background-color: #404BBF;}
+.button .link:hover {background-color:#404BBF;}
 .page-title {font-size: 56px;
              font-weight: 700; 
              line-height: 1.07; 
@@ -46,7 +46,7 @@ color: #2e2f42;}
                 font-weight: 700;
                 letter-spacing: 0.02em;
                 line-height: 1.2;
-                color: #2e2f42;}
+                color:#2e2f42;}
 
 .card-title {font-size: 20px;
              font-weight: 500;
@@ -54,7 +54,7 @@ color: #2e2f42;}
              color: #2e2f42;
              background-color: #FFFFFF;
             line-height: 1.2;}
-.section-3 {background-color: #F4F4FD}           
+.section-3 {background-color:#F4F4FD}           
 .section-title-2 {font-size: 36px;
    font-weight: 500;
    letter-spacing: 0.02em;
@@ -62,5 +62,8 @@ color: #2e2f42;}
    text-align: center;
    text-transform: capitalize;
    color: #2e2f42;}
-.footer {background-color: #2e2f42;}
+.footer {background-color:#2e2f42;}
 .logo-footer {color:#f4f4fd}
+.p-footer {color:#f4f4fd;
+         letter-spacing: 0.02em;
+         line-height: 1.5;}
